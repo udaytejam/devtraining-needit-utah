@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic_language">
+    <sys_cb_topic_language action="DELETE">
+        <cb_topic_id display_value="Report IT Issue Duplicate">3976b3bac3f90210fcd7171ed4013173</cb_topic_id>
+        <language_code>en</language_code>
+        <nlu_entities>[]</nlu_entities>
+        <nlu_intent>OpenITTicket</nlu_intent>
+        <nlu_intent_label>OpenITTicket</nlu_intent_label>
+        <nlu_model>sn_itsm_nlu_ITSM_NLU_for_VA</nlu_model>
+        <nlu_model_label>ITSM NLU for Virtual Agent</nlu_model_label>
+        <nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider>
+        <sys_class_name>sys_cb_topic_language</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-30 11:17:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>fd76b3bac3f90210fcd7171ed4013176</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_cb_topic_language_fd76b3bac3f90210fcd7171ed4013176</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-30 11:17:40</sys_updated_on>
+    </sys_cb_topic_language>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>d919a5a61b454ad478c7cb7b234bcb7e</instance_id>
+        <instance_name>dev249094</instance_name>
+        <name>sys_cb_topic_language_fd76b3bac3f90210fcd7171ed4013176</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic_language"><sys_cb_topic_language action="INSERT_OR_UPDATE"><cb_topic_id display_value="Report IT Issue Duplicate">3976b3bac3f90210fcd7171ed4013173</cb_topic_id><language_code>en</language_code><nlu_entities>[]</nlu_entities><nlu_intent>OpenITTicket</nlu_intent><nlu_intent_label>OpenITTicket</nlu_intent_label><nlu_model>sn_itsm_nlu_ITSM_NLU_for_VA</nlu_model><nlu_model_label>ITSM NLU for Virtual Agent</nlu_model_label><nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider><sys_class_name>sys_cb_topic_language</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-30 11:17:40</sys_created_on><sys_domain>global</sys_domain><sys_id>fd76b3bac3f90210fcd7171ed4013176</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_cb_topic_language_fd76b3bac3f90210fcd7171ed4013176</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-30 11:17:40</sys_updated_on></sys_cb_topic_language></record_update>]]></payload>
+        <payload_hash>-1140079839</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>7e1fcbbec3750210fcd7171ed40131b9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-30 11:17:40</sys_created_on>
+        <sys_id>3576b3bac3f90210fcd7171ed4013179</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f2eb981520000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-30 11:17:40</sys_updated_on>
+        <type>CB Topic Language</type>
+        <update_guid>f576b3ba46f90210209c6b2f40a25a78</update_guid>
+        <update_guid_history>f576b3ba46f90210209c6b2f40a25a78:-1140079839</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-30 11:18:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_cb_topic_language">sys_cb_topic_language</sys_db_object>
+        <sys_id>2e20b07260d443e89de54d14ec4bfa29</sys_id>
+        <sys_metadata>fd76b3bac3f90210fcd7171ed4013176</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_cb_topic_language_fd76b3bac3f90210fcd7171ed4013176</sys_update_name>
+        <sys_update_version display_value="sys_cb_topic_language_fd76b3bac3f90210fcd7171ed4013176">3576b3bac3f90210fcd7171ed4013179</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-30 11:18:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
